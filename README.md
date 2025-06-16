@@ -29,7 +29,7 @@ Implemented a forced-choice, zero-shot classification method by comparing the lo
 ### SeizureSavvy
 Researched state-of-the-art models for seizure forecasting, implemented an LSTM model achieving 84% prediction accuracy. Deployed XGBoost to identify and rank top seizure triggers, providing actionable insights for patient care. Designed the database schema and data pipeline to collect, store, and analyze patient-reported symptoms and episodes.
 
-![SeizureSavvy](assets/seizure_savvy.jpg)
+![SeizureSavvy](assets/seizure_savvy_short.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ Built a handwritten character recognition system (CNN) for use cases with data s
 Developed WhatsApp based multi-agent system for multilingual pension assistance, achieved 80% successful query resolution on 100+ test cases and got validated by Bulgarian pension administration officials.  
 Implemented agentic workflow for ambiguity detection in user input, benefits eligibility assessment and pension calculation, achieving 78% accuracy on complex queries.
 
-![babAI](assets/babAI-new-version.gif)
+![babAI](assets/bab_ai_gif.gif)
 
 ---
 
