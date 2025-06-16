@@ -1,4 +1,4 @@
-# Tanya Bas Portfolio
+# Hi! I am Tanya
 
 San Francisco, CA  
 Email: tetianabass17@gmail.com  
