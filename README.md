@@ -9,7 +9,7 @@ Email: tetianabass17@gmail.com
 
 ---
 
-## Projects
+## Projects 
 
 ### Evaluating Multimodal LLMs on Reasoning Tasks in Low-Resource Languages *(accepted to ACL 2025)*
 Co-authored a research paper introducing reasoning and cultural misattribution benchmarks for low resource languages across 12 disciplines. Set up evaluations for classification, identification and generation tasks.
