@@ -27,6 +27,21 @@ Co-authored a research paper introducing reasoning and cultural misattribution b
 
 ---
 
+### PensionGPT (Twilio, Llama LLM, TogatherAI, Pinecone DB)
+Developed WhatsApp based multi-agent system for multilingual pension assistance, achieved 80% successful query resolution on 100+ test cases and got validated by Bulgarian pension administration officials.  
+Implemented agentic workflow for ambiguity detection in user input, benefits eligibility assessment and pension calculation, achieving 78% accuracy on complex queries.
+
+<img src="assets/bab_ai_gif.gif" alt="babAI" width="350"/>
+
+---
+
+### Self-HyDE: Self-Reflective Hypothetical Document Embeddings
+Researched a new RAG system by replicating and combining approaches outlined in HyDE and SelfRAG papers, with custom Wikipedia-based document index and improved retrieval pipeline. Evaluated system using ROUGE and semantic similarity scoring, demonstrating improved retrieval quality and answer accuracy.
+
+<img src="assets/SelfHyDE.png" alt="Self-HyDE" width="350"/>
+
+---
+
 ### Large-Scale Gender Bias Analysis in Language Models *(under peer review)*
 Engineered a framework for generating new benchmarking datasets anchoring them in the social science studies. Expanded dataset diversity 5x for gender bias detection in LLMs.  
 Implemented a forced-choice, zero-shot classification method by comparing the log-likelihoods of each candidate label and KL divergence for alignment assessment.
@@ -47,20 +62,6 @@ Built a handwritten character recognition system (CNN) for use cases with data s
 
 <img src="assets/ocr.png" alt="OCR Data Scarcity" width="350"/>
 
----
-
-### PensionGPT (Twilio, Llama LLM, TogatherAI, Pinecone DB)
-Developed WhatsApp based multi-agent system for multilingual pension assistance, achieved 80% successful query resolution on 100+ test cases and got validated by Bulgarian pension administration officials.  
-Implemented agentic workflow for ambiguity detection in user input, benefits eligibility assessment and pension calculation, achieving 78% accuracy on complex queries.
-
-<img src="assets/bab_ai_gif.gif" alt="babAI" width="350"/>
-
----
-
-### Self-HyDE: Self-Reflective Hypothetical Document Embeddings
-Researched a new RAG system by replicating and combining approaches outlined in HyDE and SelfRAG papers, with custom Wikipedia-based document index and improved retrieval pipeline. Evaluated system using ROUGE and semantic similarity scoring, demonstrating improved retrieval quality and answer accuracy.
-
-<img src="assets/SelfHyDE.png" alt="Self-HyDE" width="350"/>
 
 ---
 
