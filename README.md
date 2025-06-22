@@ -16,7 +16,7 @@ I also run (marathon PB 3:14, half marathon PB 1:24) in my free time
 **Skills:** Python (NumPy, Pandas, Scikit-learn, JAX, Pytorch, Tensorflow, PyG, NetworkX, Transformers), LangGraph, Pinecone, LlamaIndex, Langfuse, SQL, GCP, AWS, Git  
 **Languages:** Ukrainian (native), Russian (native), English (fluent), Spanish (advanced), French (advanced), Polish (intermediate)
 
----
+----
 
 ## Projects 
 
@@ -25,7 +25,7 @@ Co-authored a research paper introducing reasoning and cultural misattribution b
 
 <img src="assets/evals_ua.png" alt="Reasoning Tasks in Low-Resource Languages" width="350"/>
 
----
+----
 
 ### [Large-Scale Gender Bias Analysis in Language Models](https://arxiv.org/pdf/2411.13738) ([code](https://github.com/TetianaBas/LLM_biases)) *(under peer review)*
 Engineered a framework for generating new benchmarking datasets anchoring them in the social science studies. Expanded dataset diversity 5x for gender bias detection in LLMs.  
@@ -33,21 +33,21 @@ Implemented a forced-choice, zero-shot classification method by comparing the lo
 
 <img src="assets/evals_gender_bias.png" alt="Gender Bias Analysis" width="350"/>
 
----
+----
 
 ### [SeizureSavvy](https://github.com/tanya-bas/seizure-savvy)
 Researched state-of-the-art models for seizure forecasting, implemented an LSTM model achieving 84% prediction accuracy. Deployed XGBoost to identify and rank top seizure triggers, providing actionable insights for patient care. Designed the database schema and data pipeline to collect, store, and analyze patient-reported symptoms and episodes.
 
 <img src="assets/seizure_savvy_short.jpg" alt="SeizureSavvy" width="350"/>
 
----
+----
 
 ### OCR Data Scarcity
 Built a handwritten character recognition system (CNN) for use cases with data scarcity. Used conditional variational autoencoders (CVAE) and GANs to overcome data scarcity, manually creating a custom dataset. Combined CVAE for latent space manipulation and GAN architectures with progressive upsampling to generate synthetic training samples.
 
 <img src="assets/ocr.png" alt="OCR Data Scarcity" width="350"/>
 
----
+----
 
 ### [PensionGPT (Twilio, Llama LLM, TogatherAI, Pinecone DB)](https://github.com/tanya-bas/bab-ai)
 Developed WhatsApp based multi-agent system for multilingual pension assistance, achieved 80% successful query resolution on 100+ test cases and got validated by Bulgarian pension administration officials.  
@@ -55,28 +55,28 @@ Implemented agentic workflow for ambiguity detection in user input, benefits eli
 
 <img src="assets/bab_ai_gif.gif" alt="babAI" width="350"/>
 
----
+----
 
 ### [Self-HyDE: Self-Reflective Hypothetical Document Embeddings](https://github.com/tanya-bas/self-hyde)
 Researched a new RAG system by replicating and combining approaches outlined in HyDE and SelfRAG papers, with custom Wikipedia-based document index and improved retrieval pipeline. Evaluated system using ROUGE and semantic similarity scoring, demonstrating improved retrieval quality and answer accuracy.
 
 <img src="assets/SelfHyDE.png" alt="Self-HyDE" width="350"/>
 
----
+----
 
 ### [Road Traffic Network Simulation for Data-Driven Urban Planning](https://github.com/tanya-bas/Modeling_of_Complex_Systems)
 Designed a traffic congestion simulation using OSMnx and NetworkX with 73% alignment with historical traffic congestion data, comparing Berlin and San Francisco road networks through dynamic car movement and density-based jam detection. Created a theoretical model using graph theory for analytical estimations of traffic dynamics, utilizing edge betweenness centrality to predict congestion patterns and validate against empirical simulation results.
 
 <img src="assets/berlin_traffic.gif" alt="Berlin Traffic Simulation" width="350"/>
 
----
+----
 
 ### [ForestFire Spread](https://github.com/tanya-bas/Modeling_of_Complex_Systems)
 Developed a forest fire simulation in British Columbia using environmental factors (wind, density, temperature, humidity). Designed and evaluated 3 fire mitigation strategies demonstrating that random firebreaks reduced forest burn percentage by 50% compared to targeted high-risk area interventions. Conducted percolation analysis and theoretical modeling using renormalization group theory to derive mathematical relationships between wind strength and fire spread probability, validating empirical results against theoretical predictions.
 
 <img src="assets/fire_spread.gif" alt="Forest Fire Spread" width="350"/>
 
----
+----
 
 ### [Bayesian Modeling for San Francisco Temperature Prediction](https://github.com/tanya-bas/BayesianModelling)
 Developed linear regression models with normal, student-t, and outlier detection likelihood functions to predict the temperature dynamics in San Francisco. Performed model comparison using PSIS leave-one-out cross-validation.
@@ -84,12 +84,12 @@ Developed linear regression models with normal, student-t, and outlier detection
 <img src="assets/SF_weather_bayesian.png" alt="SF Weather Bayesian" width="350"/>
 <img src="assets/SF_weather2.png" alt="SF Weather 2" width="350"/>
 
----
+----
 
 ### [Bayesian Modeling for UK GP Visit Estimations](https://github.com/tanya-bas/BayesianModelling)
 Developed complete pooling and partial pooling Zero-Inflated Poisson models with PyMC to estimate missing values of average GP visits across geographical regions, and age groups in the UK. Performed model comparison using PSIS leave-one-out cross-validation.
 
 <img src="assets/uk_gp_estimation.png" alt="UK GP Estimation" width="350"/>
 
----
+----
 
